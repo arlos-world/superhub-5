@@ -1,5 +1,5 @@
 ---
-title: 'Weclome to Bidi '
+title: 'Welcome to Bidi '
 deprecated: false
 hidden: false
 metadata:
