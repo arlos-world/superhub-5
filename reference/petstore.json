@@ -1014,6 +1014,11 @@
             "type": "string",
             "example": "doggie"
           },
+          
+          "name2": {
+            "type": "string",
+            "example": "spot"
+          },
           "photoUrls": {
             "type": "array",
             "xml": {
